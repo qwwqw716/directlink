@@ -1,0 +1,13 @@
+name = "directlink"
+main = "src/index.js"
+compatibility_date = "2024-01-29"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "17b9155f24424b41b40e9e70ae405513"
+
+[vars]
+PATH_PREFIX = ""
+_123 = ""
+_189 = ""
