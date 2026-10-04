@@ -1,0 +1,9 @@
+{
+  "name": "directlink",
+  "version": "2.3.4",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  }
+}
